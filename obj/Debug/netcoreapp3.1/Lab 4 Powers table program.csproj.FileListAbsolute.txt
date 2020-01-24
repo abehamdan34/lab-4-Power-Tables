@@ -1,0 +1,11 @@
+C:\Users\abeis\source\repos\Lab 4 Powers table program\Lab 4 Powers table program\bin\Debug\netcoreapp3.1\Lab 4 Powers table program.exe
+C:\Users\abeis\source\repos\Lab 4 Powers table program\Lab 4 Powers table program\bin\Debug\netcoreapp3.1\Lab 4 Powers table program.deps.json
+C:\Users\abeis\source\repos\Lab 4 Powers table program\Lab 4 Powers table program\bin\Debug\netcoreapp3.1\Lab 4 Powers table program.runtimeconfig.json
+C:\Users\abeis\source\repos\Lab 4 Powers table program\Lab 4 Powers table program\bin\Debug\netcoreapp3.1\Lab 4 Powers table program.runtimeconfig.dev.json
+C:\Users\abeis\source\repos\Lab 4 Powers table program\Lab 4 Powers table program\bin\Debug\netcoreapp3.1\Lab 4 Powers table program.dll
+C:\Users\abeis\source\repos\Lab 4 Powers table program\Lab 4 Powers table program\bin\Debug\netcoreapp3.1\Lab 4 Powers table program.pdb
+C:\Users\abeis\source\repos\Lab 4 Powers table program\Lab 4 Powers table program\obj\Debug\netcoreapp3.1\Lab 4 Powers table program.csprojAssemblyReference.cache
+C:\Users\abeis\source\repos\Lab 4 Powers table program\Lab 4 Powers table program\obj\Debug\netcoreapp3.1\Lab 4 Powers table program.AssemblyInfoInputs.cache
+C:\Users\abeis\source\repos\Lab 4 Powers table program\Lab 4 Powers table program\obj\Debug\netcoreapp3.1\Lab 4 Powers table program.AssemblyInfo.cs
+C:\Users\abeis\source\repos\Lab 4 Powers table program\Lab 4 Powers table program\obj\Debug\netcoreapp3.1\Lab 4 Powers table program.dll
+C:\Users\abeis\source\repos\Lab 4 Powers table program\Lab 4 Powers table program\obj\Debug\netcoreapp3.1\Lab 4 Powers table program.pdb
